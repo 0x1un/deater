@@ -1,0 +1,9 @@
+duter_server_host: 127.0.0.1
+duter_server_port: 8888
+
+zbx:
+  zbx_api_host: example.com
+  zbx_api_port: 8096
+  zbx_api_suffix: api_jsonrpc.php
+  zbx_api_username: Admin
+  zbx_api_password: password
